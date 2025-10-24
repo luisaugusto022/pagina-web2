@@ -1,4 +1,16 @@
 body{
-    background-color: purple;
-    font family: Bitcount Single Ink;
+    background-color: rgb(255, 1, 1);
+}
+.bbh-sans-bartle-regular {
+  font-family: "BBH Sans Bartle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+color:rgb(0, 217, 255);
+header{
+    font: size 50px;
+}
+.top1{
+background-color: aliceblue;
 }
